@@ -5,10 +5,12 @@
 
 ## Intruções
 
-* Primeiramente, é necessário ter o python instalado. Caso não esteja instalado, deve instalá-lo escrevendo no terminal o seguinte código: $ sudo apt install python3
+* Primeiramente, é necessário ter o python instalado. Caso não esteja instalado, deve instalá-lo escrevendo no terminal o seguinte código:
+  
+        $ sudo apt install python3
 
 
-- É necessário ter o jupyter instalado no seu computador; caso não tenha, escreva no terminal o seguinte codigo:
+* Para além disso, deve instalar também o jupyter, caso ainda não o tenha. Para tal, deve escrever no terminal o seguinte código:
 
         $ pip install jupyter
 
