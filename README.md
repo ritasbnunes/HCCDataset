@@ -7,7 +7,7 @@
 
 ## Requisitos
 
-* Primeiramente, é necessário ter o python instalado. Caso não esteja instalado, deve instalá-lo escrevendo no terminal o seguinte código:  $ sudo apt install python3
+* Primordialmente, é necessário ter o python instalado. Caso não esteja instalado, deve instalá-lo escrevendo no terminal o seguinte código:  $ sudo apt install python3
 
 * Para além disso, deve instalar também o jupyter, caso ainda não o tenha. Para tal, deve escrever no terminal o seguinte código:  $ pip install jupyter
 
