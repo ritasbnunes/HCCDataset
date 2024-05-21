@@ -27,7 +27,7 @@ $ pip install pandas==2.2.2
 ## Execução
 
 * Após ter todos os requisitos instalados, executar o ficheiro project.ipynb.
-
+* Também pode executar o ficheiro no Google Colab, uma vez que não necessita de instalações adicionais. Contudo, as atualizações mais recentes do Colab podem levar à perda de funcionalidades, como a construção de gráficos e execução de algoritmos.
 
 Trabalho realizado por:
 
