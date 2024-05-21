@@ -15,9 +15,13 @@
   Caso não tenha as bibliotecas acima referidas, coloque os seguintes comandos no terminal:
 
 $ pip install scikit-learn==1.4.2
+
 $ pip install matplotlib==3.8.4 
+
 $ pip install seaborn==0.13.2
+
 $ pip install numpy==1.26.4
+
 $ pip install pandas==2.2.2
 
 ## Execução
